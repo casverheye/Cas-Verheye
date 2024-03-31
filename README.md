@@ -2,6 +2,8 @@
 I'm Cas
 </h3>
 
+<br>
+
 <p>
 I'm a student at Artevelde University of Applied Sciences. I study programming.
 </p> 
