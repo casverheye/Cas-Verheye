@@ -26,4 +26,4 @@ I'm a student at Artevelde University of Applied Sciences. I study programming.
 <br>
 
 ## Contact me
-[Linkedin]([https://link-url-here.org](https://www.linkedin.com/in/casverheye/))
+[Linkedin]([https://www.linkedin.com/in/casverheye/])
